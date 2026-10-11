@@ -1,0 +1,6 @@
+# Tested with Python 3.14, numpy 2.5.3, scipy 1.18.1, pandas 3.0.5, matplotlib 3.11.2
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+# optional, only for pygimli/ :  pygimli (install via conda: conda install -c gimli -c conda-forge pygimli)
